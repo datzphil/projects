@@ -1,0 +1,7 @@
+<p>push() -> adds to end of array </p>
+<p>unshift() -> adds to beginning of array </p>
+<p>pop() -> removes a single element from the end of array </p>
+<p>shift() -> removes a single element from beginning of array </p>
+
+<p>splice(startIndex, amountToDelete, parameter(s)) -> removes any numbers of elements from anywhere in an array </p>
+<p>slice() -> takes two parameters, a starting index and an index to stop at (not including the actual index</p>
