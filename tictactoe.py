@@ -214,14 +214,12 @@ while ("XXX" not in total) or ("OOO" not in total) or (" " not in total):
     if o_count < x_count:
         next_move_o(input())
         o_count += 1
-        print(o_count)
         if "XXX" in total:
             print("X wins")
             break
     elif o_count == x_count:
         next_move_x(input())
         x_count += 1
-        print(x_count)
         if "OOO" in total:
             print("O wins")
             break
