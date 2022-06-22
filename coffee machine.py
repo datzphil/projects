@@ -101,7 +101,7 @@ class CoffeeMachine:
         self.water += int(input())
         print("Write how many ml of milk do you want to add:")
         self.milk += int(input())
-        print("Write how many grans of coffee beans do you want to add:")
+        print("Write how many grams of coffee beans do you want to add:")
         self.beans += int(input())
         print("Write how many disposable cups of coffee do you want to add:")
         self.cups += int(input())
